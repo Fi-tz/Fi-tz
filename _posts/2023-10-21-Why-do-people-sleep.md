@@ -32,29 +32,29 @@ a person who works in a profession, especially medicine or law（尤指医学或
 Mr Miller has a good eye for a great scientific story. One of Kleitman’s best-known experiments involved spending 32 days in a dark cave as he worked to shed light on the limits of the body’s inbuilt circadian<sup>/sɜːˈkeɪdiən/生理节奏</sup> clock<sub>克莱特曼最著名的实验之一是在一个漆黑的洞穴中度过了32天，他努力揭示身体内置的昼夜生理节奏的极限。</sub>. The author is happy to show research as it is really done, indignities and all.
 
 >shed<sup>/ʃed/</sup>
->1.get rid of去除
->shed something (often used in newspapers常用于报章) to get rid of something that is no longer wanted去除；摆脱
->The factory is shedding a large number of jobs.这家工厂正大批裁员。
->2.drop使落下 shed something (+ adv./prep.) (formal) to take off a piece of clothing使落下；使掉下
-Luke shed his clothes onto the floor.卢克把衣服脱在地板上
-3.skin/leaves皮；叶
-shed something if an animal sheds its skin, or a plant sheds leaves, it loses them naturally蜕；落
-How often does a snake shed its skin?蛇多久脱皮一次
-4.light光
-The candles shed a soft glow on her face.蜡烛在她的脸上映着一层柔光
-5.tears眼泪
-She shed no tears when she heard he was dead.她听到他的死讯时没流一滴眼泪
-6.blood血
-shed blood (formal) to kill or injure people, especially in a war（尤指在战争中）造成伤亡；使流血
-How much blood will be shed before the fighting ends?战斗结束前会流多少血？
-8.water水 
-shed something (formal) to have the quality of causing water or liquid to run off and not sink in
-A duck's feathers shed water immediately.鸭子的羽毛不沾水
+>1.get rid of去除 <br>
+>shed something (often used in newspapers常用于报章) to get rid of something that is no longer wanted去除；摆脱<br>
+>The factory is shedding a large number of jobs.这家工厂正大批裁员。<br>
+>2.drop使落下 shed something (+ adv./prep.) (formal) to take off a piece of clothing使落下；使掉下<br>
+Luke shed his clothes onto the floor.卢克把衣服脱在地板上<br>
+3.skin/leaves皮；叶<br>
+shed something if an animal sheds its skin, or a plant sheds leaves, it loses them naturally蜕；落<br>
+How often does a snake shed its skin?蛇多久脱皮一次<br>
+4.light光<br>
+The candles shed a soft glow on her face.蜡烛在她的脸上映着一层柔光<br>
+5.tears眼泪<br>
+She shed no tears when she heard he was dead.她听到他的死讯时没流一滴眼泪<br>
+6.blood血<br>
+shed blood (formal) to kill or injure people, especially in a war（尤指在战争中）造成伤亡；使流血<br>
+How much blood will be shed before the fighting ends?战斗结束前会流多少血？<br>
+8.water水 <br>
+shed something (formal) to have the quality of causing water or liquid to run off and not sink in<br>
+A duck's feathers shed water immediately.鸭子的羽毛不沾水<br>
 
->Idioms
-cast/shed/throw light on something
-to make a problem, etc. easier to understand使（问题等）较容易理解
-Recent research has shed new light on the causes of the disease.最近的研究结果对该病的病因已有新的了解
+>Idioms<br>
+cast/shed/throw light on something<br>
+to make a problem, etc. easier to understand使（问题等）较容易理解<br>
+Recent research has shed new light on the causes of the disease.最近的研究结果对该病的病因已有新的了解<br>
 
 One section describes a more modern, quantitative sort of circadian-rhythm research that took place in a purpose-built facility in a Bavarian village. The lab sported two apartments, with no window or clocks to clue their occupants into what was happening outside. Test subjects lived there for weeks, free to wake and doze whenever they liked—but never free from the rectal<sup>/ˈrektəl/</sup> thermometers<sup>/θəˈmɒmɪtə(r)/</sup> that were attached to wall sockets<sup>/ˈsɒkɪt/插座</sup> by long cables.
 **_其中一部分描述了更现代的、定量的昼夜节律研究，该研究在巴伐利亚村庄内的一个专门建造的设施中进行。实验室内有两套公寓，没有窗户或时钟来提示居住者外面的情况。测试对象在那里生活了数周，可以在任何他们喜欢的时候醒来或打盹，但从来没有摆脱过用长电缆连接到墙上插座的直肠温度计。_**
