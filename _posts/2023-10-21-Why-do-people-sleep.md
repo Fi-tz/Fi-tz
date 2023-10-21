@@ -61,37 +61,37 @@ One section describes a more modern, quantitative sort of circadian-rhythm resea
 
 There is a serious side, too. Shift work interferes with the body’s internal clocks and raises the risk of illness, including heart disease and diabetes. Mr Miller explains medicine’s slow recognition of sleep apnea<sup>/ˈæpniə/呼吸暂停</sup>, a common affliction<sup>/əˈflɪkʃn/折磨</sup>, and the damage it can inflict<sup>使遭受（不好的事情）；施加（打击、痛苦等）</sup>.<sub>米勒先生解释了医学领域对于睡眠呼吸暂停这一常见疾病的认知的缓慢，以及它可能对健康造成的伤害。</sub> It is caused by the airway repeatedly collapsing<sup>/kəˈlæpsɪŋ/</sup> during sleep. Sufferers endure hundreds of episodes of oxygen deprivation every night (the characteristic gasping and snorting comes when a bodily reflex forces sleepers to take a desperate breath of air).<sub>患者每晚忍受数百次氧气匮乏的情况（特征性的喘息和鼾声发生在身体的反射强迫睡眠者拼命吸一口气时</sub>
 >collapsing<sup>/kəˈlæpsɪŋ/</sup> 
->**medical医学**
+>**medical医学**<br>
 >[intransitive, transitive] collapse (something) if a lung or blood vessel collapses or is collapsed, it falls in and becomes flat and empty
-（肺或血管）萎陷
->**of building建筑物**
-  [intransitive] to fall down or fall in suddenly, often after breaking apart（突然）倒塌，坍塌
+（肺或血管）萎陷<br>
+>**of building建筑物**<br>
+  [intransitive] to fall down or fall in suddenly, often after breaking apart（突然）倒塌，坍塌<br>
 synonym give way
-The roof collapsed under the weight of snow.房顶在雪的重压下突然坍塌下来。
-The building had partially collapsed.建筑物部分倒塌了。
-**of sick person病人**
-  [intransitive] to fall down (and usually become unconscious), especially because you are very ill（尤指因病重而）倒下，昏倒，晕倒
-She collapsed and was rushed to hospital.她崩溃了，被送往医院。
- collapse + adv./prep. The man collapsed in a heap on the floor.该名男子倒在地板上的一堆里。
-He collapsed in the street and died two hours later.他昏倒在街上，两小时后死了。
-One night he practically collapsed from exhaustion一天晚上，他几乎精疲力竭地崩溃了
-**relax放松**
-[intransitive] (informal) to sit or lie down and relax, especially after working hard（尤指工作劳累后）坐下，躺下放松
-When I get home I like to collapse on the sofa and listen to music.回到家时，我喜欢倒在沙发上听音乐。
-fail失败
-[intransitive] to fail suddenly or completely突然失败；崩溃；瓦解
-synonym break down (2)
-Talks between management and unions have collapsed.资方与工会的谈判已告破裂。
-All opposition to the plan has collapsed.所有反对此计划的力量均已消除。
-**of prices/currencies价格；货币**
-[intransitive] to decrease suddenly in amount or value（突然）降价，贬值；暴跌
-Share prices collapsed after news of poor trading figures.在交易数额不佳的消息公布后，股票价格暴跌。
-She lost a lot of money when the property market collapsed.房地产市场崩溃时，她亏了很多钱。
-Topics Change, cause and effectB2, MoneyB2
-**fold折叠**
-[intransitive, transitive] collapse (something) to fold something into a shape that uses less space; to be able to be folded in this way折叠；套缩；可折叠（或套缩）
-synonym fold
-The table collapses for easy storage.这桌子可折叠起来方便存放。
+The roof collapsed under the weight of snow.房顶在雪的重压下突然坍塌下来。<br>
+The building had partially collapsed.建筑物部分倒塌了。<br>
+**of sick person病人**<br>
+  [intransitive] to fall down (and usually become unconscious), especially because you are very ill（尤指因病重而）倒下，昏倒，晕倒<br>
+She collapsed and was rushed to hospital.她崩溃了，被送往医院。<br>
+ collapse + adv./prep. The man collapsed in a heap on the floor.该名男子倒在地板上的一堆里。<br>
+He collapsed in the street and died two hours later.他昏倒在街上，两小时后死了。<br>
+One night he practically collapsed from exhaustion一天晚上，他几乎精疲力竭地崩溃了<br>
+**relax放松**<br>
+[intransitive] (informal) to sit or lie down and relax, especially after working hard（尤指工作劳累后）坐下，躺下放松<br>
+When I get home I like to collapse on the sofa and listen to music.回到家时，我喜欢倒在沙发上听音乐。<br>
+fail失败<br>
+[intransitive] to fail suddenly or completely突然失败；崩溃；瓦解<br>
+synonym break down (2)<br>
+Talks between management and unions have collapsed.资方与工会的谈判已告破裂。<br>
+All opposition to the plan has collapsed.所有反对此计划的力量均已消除。<br>
+**of prices/currencies价格；货币**<br>
+[intransitive] to decrease suddenly in amount or value（突然）降价，贬值；暴跌<br>
+Share prices collapsed after news of poor trading figures.在交易数额不佳的消息公布后，股票价格暴跌。<br>
+She lost a lot of money when the property market collapsed.房地产市场崩溃时，她亏了很多钱。<br>
+Topics Change, cause and effectB2, MoneyB2<br>
+**fold折叠**<br>
+[intransitive, transitive] collapse (something) to fold something into a shape that uses less space; to be able to be folded in this way折叠；套缩；可折叠（或套缩）<br>
+synonym fold<br>
+The table collapses for easy storage.这桌子可折叠起来方便存放。<br>
 
 If left untreated, sleep apnea can lead to crippling exhaustion or worse. Mr Miller relates the case of a brother and sister who both suffered from the condition. The brother was eventually cured by having a small hole cut in his throat, but years of oxygen deprivation at night had caused irreversible brain damage in his sister.
 
