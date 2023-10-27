@@ -5,7 +5,8 @@ tags: Culture
 
 #Lubar: lucky beyond all recognition
 
-Luck plays a big and often unacknowledged part in career success, starting in the womb. Warren Buffett has talked of winning the “ovarian lottery” by being born in America when he was, and being wired in a way that pays off in a market economy. Good looks are associated with higher pay and a greater chance of being called to interview in hiring processes. Your experience of discrimination will reflect your circumstances of birth.
+Luck plays a big and often unacknowledged part in career success, starting in the womb<sup> /wuːm/ </sup>. Warren Buffett has talked of winning the “ovarian lottery” by being born in America when he was, and being wired in a way that pays off in a market economy. Good looks are associated with higher pay and a greater chance of being called to interview in hiring processes. Your experience of discrimination will reflect your circumstances of birth.
+>_Warren Buffett (1930–) a wealthy US businessman and investor (=someone who buys and sells stocks etc). He bought his first shares when he was 11, and bought land when he was 14, using the money he earned delivering newspapers. He studied at Columbia University after Harvard Business School said they would not take him. He is one of the world's richest people, but he has promised that he will give a lot of his money to charity._
 
 The early way-stations in a career are often marked by chance: a particularly encouraging boss, say, or an assignment that leads you off in an unexpected but defining direction. Luck can affect the pathways of the most rational-minded professions. A paper published in 2022 by Qi Ge of Vassar College and Stephen Wu of Hamilton College found that economists with harder-to-pronounce names, including within ethnic groups, were less likely to be placed into academic jobs or get tenure-track positions.
 
