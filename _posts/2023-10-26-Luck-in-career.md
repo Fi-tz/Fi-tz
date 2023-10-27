@@ -10,15 +10,19 @@ Luck plays a big and often unacknowledged part in career success, starting in th
 >**pay off:** (informal) (of a plan or an action, especially one that involves risk尤指冒险的计划或行动) to be successful and bring good results成功；奏效；达到目的<br>
 >>The gamble paid off.这一把赌对了      
 
->**discrimination：**[uncountable] the practice of treating somebody or a particular group in society less fairly than others区别对待；歧视；偏袒
+>**discrimination：**[uncountable] the practice of treating somebody or a particular group in society less fairly than others区别对待；歧视；偏袒<br>
+
 在职业成功的路上运气扮演着一个重要并且通常来说未认知的一部分，这种运气从出生就开始了。瓦伦·巴菲特曾在美国的时候谈起过“天赋符文”，具有适应市场经济的特质或天赋。你所受到的不公平对待将会映射你的出身环境。
 
 The early way-stations<sup>落脚点</sup> in a career are often marked by chance: a particularly encouraging boss, say, or an assignment<sup>指派</sup> that leads you off in an unexpected but defining direction. Luck can affect the pathways of the most rational-minded professions. A paper published in 2022 by Qi Ge of Vassar College and Stephen Wu of Hamilton College found that economists with harder-to-pronounce names, including within ethnic groups, were less likely to be placed into academic jobs or get tenure<sup>/ˈten.jər/任期</sup>-track positions.
 >waystation: a place where you can stop before going on somewhere else<br>
 
-职业生涯的落脚点通常是靠机遇的：一个特别鼓励人心的老板，也或是一种指派，虽然没有领你去你想要的但是确是一个有决定性的方向。
-运气可以影响最理性的职业的发展路径.一份由Vassar大学的七哥和哈密尔顿大学的斯达棻联合发表的论文声称，那些具有难以发音的名字的经济学家或者团体，很少可能会被安排到学院工作或者任期。
+职业生涯的落脚点通常是靠机遇的：一个特别鼓励人心的老板，也或是一种指派，虽然没有领你去你想要的但是确是一个有决定性的方向。运气可以影响最理性的职业的发展路径.一份由Vassar大学的七哥和哈密尔顿大学的斯达棻联合发表的论文声称，那些具有难以发音的名字的经济学家或者团体，很少可能会被安排到学院工作或者任期。
+
 Names can work against economists in other ways. Another study, by Liran Einav of Stanford University and Leeat Yariv, now of Princeton University, found that faculty with earlier surname initials were more likely to receive tenure at top departments, an effect they put down to the fact that authors of economics papers tend to be listed alphabetically.
+>put down to sth:to consider that something is caused by something把…归因于<br>
+
+名字会以其他不同的方式与经济学家作对。斯坦福大学利瑞安·艾因娜和丽埃特·雅瑞，目前隶属普林瑟顿大学，共同的研究表明，教师的名字的首字母靠前的会经常接收到顶级部门的受任邀请，这一影响被归因于经济学论文的作者通常按字母顺序列出
 
 Performing well can be due to luck, not talent. In financial markets, asset managers who shine in one period often lose their lustre in the next. The rise of passive investing reflects the fact that few stockpickers are able persistently to outperform the overall market. The history of the oil industry is shot through with stories of unexpected discoveries. A recent paper by Alexei Milkov and William Navidi of the Colorado School of Mines found that 90% of industry practitioners believe that luck affects the outcome of exploration projects. The authors’ analysis of 50 years of drilling on the Norwegian Continental Shelf concluded that the differences in success rates between individual firms were random.
 
