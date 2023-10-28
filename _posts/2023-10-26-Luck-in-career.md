@@ -24,12 +24,27 @@ Names can work against economists in other ways. Another study, by Liran Einav o
 
 名字会以其他不同的方式与经济学家作对。斯坦福大学利瑞安·艾因娜和丽埃特·雅瑞，目前隶属普林瑟顿大学，共同的研究表明，教师的名字的首字母靠前的会经常接收到顶级部门的受任邀请，这一影响被归因于经济学论文的作者通常按字母顺序列出
 
-Performing well can be due to luck, not talent. In financial markets, asset managers who shine in one period often lose their lustre in the next. The rise of passive investing reflects the fact that few stockpickers are able persistently to outperform the overall market. The history of the oil industry is shot through with stories of unexpected discoveries. A recent paper by Alexei Milkov and William Navidi of the Colorado School of Mines found that 90% of industry practitioners believe that luck affects the outcome of exploration projects. The authors’ analysis of 50 years of drilling on the Norwegian Continental Shelf concluded that the differences in success rates between individual firms were random.
+Performing well can be due to luck, not talent. In financial markets, asset managers who shine in one period often lose their lustre<sup>/ˈlʌstə(r)/光彩</sup> in the next. The rise of passive<sup>/ˈpæsɪv/被动的</sup> investing reflects the fact that few stockpickers are able persistently<sup>/pəˈsɪstəntli/固执地</sup> to outperform<sup>/ˌaʊtpəˈfɔːm/</sup> the overall market. The history of the oil industry is shot through with stories of unexpected discoveries. A recent paper by Alexei Milkov and William Navidi of the Colorado School of Mines found that 90% of industry practitioners believe that luck affects the outcome<sup>结果</sup> of exploration projects. The authors’ analysis of 50 years of drilling<sup>/ˈdrɪlɪŋ/①打孔②演习</sup> on the Norwegian<sup>/nɔːˈwiːdʒən/挪威的</sup> Continental Shelf concluded that the differences in success rates between individual firms were random.
 
-表现好要归功于运气好，而不是天赋的原因。在金融市场，
+>shot<sup>/ʃɒt/</sup> <sup>原型shoot<sup>/ʃuːt/</sup>的过去式及过去分词 </sup> 
+>shoot through 
+(Australian English, New Zealand English, informal) to leave, especially in order to avoid somebody/something离去；躲避<br>
+I was only five when my Dad shot through.我父亲出走时我才五岁<br>
 
-There is a long-running debate about whether luck affects executives’ pay. A recent paper by Martina Andreani and Lakshmanan Shivakumar of London Business School and Atif Ellahie of the University of Utah suggests that it does. The academics looked at the impact of a big corporate-tax cut in America in 2017, an event which resulted in large one-off tax gains and losses for firms that were based on past transactions and that could not be attributed to managers’ skills. They found that larger windfall gains led to higher pay for CEOs of less scrutinised firms; tax losses did not seem to affect their earnings. Lucky things.
+表现好要归功于运气好，而不是天赋的原因。在金融市场，资产管理人在一段时间的风光之后便黯然失色。被动投资的崛起反映了很少有股票选取人能一再在整个市场当中风生水起。石油工业的历史随着始料不及的发现而褪去。最近的一项报告，该报告由科罗拉多矿井学校的 Alexei Milkov and William Navidi调查，发现90%的专业人员认为运气影响着勘探项目的结果。作者对近50年的挪威地壳钻取活动得出这样一个结论，在个体公司之间的成功概率是随机的。
+AI:_表现出色可能归功于运气，而不是才能。在金融市场中，一些在某个时期表现出色的资产管理人往往在下一个时期失去了光彩。被动投资的兴起反映出很少有股票选择者能够坚持超越整个市场。石油工业的历史充满了关于意外发现的故事。科罗拉多矿业学校的Alexei Milkov和William Navidi最近的一份论文发现，90%的业内从业者认为运气影响了勘探项目的结果。作者对挪威大陆架50年的钻井活动进行的分析得出，个别公司的成功率差异是随机的。_
+There is a long-running debate about whether luck affects executives’ pay. A recent paper by Martina Andreani and Lakshmanan Shivakumar of London Business School and Atif Ellahie of the University of Utah suggests that it does. The academics looked at the impact of a big corporate-tax cut in America in 2017, an event which resulted in large one-off<sup>一次性的</sup> tax gains and losses for firms that were based on past transactions and that could not be attributed to managers’ skills. They found that larger windfall gains led to higher pay for CEOs of less scrutinised<sup>/ˈskruːtənaɪz/细致审查</sup> firms; tax losses did not seem to affect their earnings. Lucky things.
 
+>2017年是美国税收政策发生重大变化的一年，最重要的事件之一是通过了《美国税收减法与就业法案》（Tax Cuts and Jobs Act），这一法案经过国会批准并于2017年底由总统签署成为法律。以下是一些该法案的主要方面：
+企业税率下调：该法案降低了公司所得税率，将公司所得税率从35%降至21%，旨在鼓励企业投资和增加就业机会。
+个人所得税改革：该法案对个人所得税也进行了一些重大改革，包括调整税率和提高标准扣除额。这使得一些人的纳税负担减轻，但也有一些减税幅度较小的人。
+支持孩子的税收优惠：法案增加了对有孩子的家庭的税收优惠，包括提高了儿童税收信用。
+离岸资产税：该法案对跨国公司的海外资产征税，以鼓励资金回流美国。
+离岸利润的纳税：法案实施了全球纳税制度，对美国公司在海外的利润征税。
+
+这一税收法案引起了广泛的争议，一些人认为它促进了经济增长，而其他人则担心它可能会导致贫富差距的扩大。无论如何，它在2017年对美国税收政策产生了深远的影响。学者们研究了2017年美国一次大规模企业税收减少对企业的影响，这一事件导致了大规模的一次性税收收益和损失，这些税收收益和损失基于过去的交易，无法归因于管理人员的技能.他们发现，更大规模的意外获利导致了较少受到审查的公司的首席执行官薪酬增加.税收损失似乎并没有影响他们的个人所得。算他们的幸运吧！
+
+对于运气是否影响执行经历的薪水一直饱受争议。伦敦商学院的Martina Andreani和Lakshmanan Shivakumar以及犹他大学的Atif Ellahie最近的一份论文表明了这一点。
 Just as some people blindly believe that merit determines success, so it is possible to get too hung up on the role of chance. CEOs may well be rewarded for luck but slogging to the top of companies involves talent and hard work. Although some have argued that entrepreneurs are simply people fortunate enough to have a large appetite for risk, skill does matter. A paper from 2006 by Paul Gompers of Harvard University and his co-authors showed that founders of one successful company have a higher chance of succeeding in their next venture than entrepreneurs who previously failed. Better technology and greater expertise reduce the role of chance; the average success rates in oil exploration, for example, have gone up over time.
 
 But if luck does play a more important role in outcomes than is often acknowledged, what does that mean? For individuals, it suggests you should increase the chances that chance will work in your favour. Partners at Y Combinator, a startup accelerator, encourage founders to apply to their programmes by talking about increasing the “surface area of luck”: putting yourself in situations where you may be rejected is a way of giving luck more opportunity to strike.
