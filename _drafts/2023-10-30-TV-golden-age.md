@@ -3,9 +3,16 @@ title: A golden age of TV is losing its shine
 tags: Culture
 ---
 
-# How Ted Lasso killed Tony Soprano
+### How Ted Lasso killed Tony Soprano
+>Ted Lasso:《足球教练》是一部美国体育喜剧剧情网络电视，由杰森·苏戴西斯、比尔·劳伦斯、布兰登·杭特、乔·凯利（Joe Kelly）开发，基于杰森·苏戴西斯在NBC体育报道英超联赛的一系列宣传片中首次塑造的同名角色
 
-“Shh, it’s ok,” whispers Frank Underwood (played by Kevin Spacey), as he strokes an injured dog just hit by a car. As the dog whimpers, he soothes it—then, after looking the viewer directly in the eye, wrings its neck.
+>Tony Soprano:安东尼·约翰·索普拉诺 (Anthony John Soprano) 是一个虚构人物，也是 HBO 犯罪电视剧《黑道家族》的主角，由詹姆斯·甘多菲尼饰演。
+
+“Shh, it’s ok,” whispers Frank Underwood (played by Kevin Spacey), as he strokes<sup>/strəʊks/<sup>n.一击，中风；v.轻抚</sup></sup> an injured dog just hit by a car. As the dog whimpers<sup>/ˈwɪmpəz/抽泣</sup>, he soothes it—then, after looking the viewer directly in the eye, wrings<sup>/rɪŋz/</sup> its neck.
+
+>Frank Underwood:弗朗西斯·约瑟夫·安德伍德（英语：Francis Joseph Underwood，1959年11月5日—2017年5月），是美国演员凯文·史派西在Netflix改编剧《纸牌屋》中饰演的虚构人物
+
+>Kevin Spacey:凯文·史派西·福勒 2017年10月30日，演员安东尼·瑞普公开指责凯文·史派西在他14岁时意图性侵他。在安东尼·瑞普的指控之后，许多其他男子也宣称凯文·史派西试图强奸或对他们使用暴力。由于凯文·史派西的丑闻爆发，Netflix在审判前已经有罪推定原则下，宣布无限期暂停《纸牌屋》新一季的制作；同时也宣布将终止发行与其联合制作的传记片《戈尔》，据悉该片目前已经进入到后期制作。史派西否认了这些指控，并在2022年纽约的诉讼和2023年伦敦的诉讼中洗脱了所有指控。
 
 Not so long ago this scene, which launched Netflix’s “House of Cards” in 2013, would have been unshowable on American television. Broadcasters were bound by federal rules against rude or racy content and cowed by advertisers who demanded wholesome heroes and happy endings. But in the 21st century bad guys have had a good run. The amoral Congressman (later President) Underwood, the violent mobster Tony Soprano, the cocaine-smuggling Pablo Escobar of “Narcos” and the megalomaniac media baron Logan Roy have lit up the small screen, in what critics have hailed as a golden era for television. As viewers migrated from broadcast channels to cable, and then to streaming, shows became darker and more daring.
 
@@ -21,7 +28,7 @@ Streaming took what cable started and pushed it further. Making whole seasons av
 
 Today Hollywood is in flux once more—and its output is evolving, too. Six months of strikes by writers and actors have halted production this year. (Writers have gone back to work, but not actors.) Even before that, studios were preparing to cut back, as investors began to demand evidence of profits rather than just subscriber growth. In America more than 2,000 original series were released last year (see chart). This will probably be the high-water mark, believes John Landgraf, chairman of the FX cable network.
 
-## The upcoming season
+### The upcoming season
 
 As the quantity of new shows falls, some believe the quality is diminishing, too. Several studios have been plagued by real-life drama: from 2018, HBO endured four unhappy years of ownership by AT&T, a phone company that knew little about TV. (Its boss suggested producing “Game of Thrones” in 20-minute episodes to be mobile-friendly.) Across the industry, a shift is under way. Mr Biskind quotes writers and actors who complain that streamers are returning to the safe centre ground that broadcast networks used to occupy. “I want to do in-your-face shit,” says Kenya Barris, the creator of inventive shows such as “Black-ish”. But “Netflix wants down-the-middle…Netflix became CBS.”
 
