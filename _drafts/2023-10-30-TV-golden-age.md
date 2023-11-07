@@ -34,6 +34,8 @@ The new television was not just about shock. Cable allowed writers to make shows
 
 Streaming took what cable started and pushed it further. Making whole seasons available on demand has allowed viewers to binge, reviving the importance of plot, which had been subordinated to character in shows like “The Sopranos”. With past episodes fresh in the viewer’s mind, less plodding exposition is needed. Streamers’ offering of thousands of shows at once has also enabled niches to thrive. Streaming has found a home for ideas that were too daring, weird or obscure even for cable, from Korean horror to Swedish romance. As Reed Hastings, Netflix’s co-founder, put it, “We are to cable networks as cable networks were to broadcast networks.”
 
+>流媒体继承了有线电视的先河，并将其推得更远。按需提供整季节目让观众可以尽情观看，重新认识了情节的重要性，而在《黑道家族》等节目中，情节一直服从于角色。由于观众对过去的情节记忆犹新，因此不需要那么乏味的阐述。流媒体同时提供数千个节目也使得利基市场蓬勃发展。从韩国恐怖到瑞典浪漫，流媒体为即使对于有线电视来说也过于大胆、怪异或晦涩的想法找到了归宿。正如 Netflix 联合创始人里德·黑斯廷斯 (Reed Hastings) 所说，“我们之于有线网络，就像有线网络之于广播网络一样。”
+
 Today Hollywood is in flux once more—and its output is evolving, too. Six months of strikes by writers and actors have halted production this year. (Writers have gone back to work, but not actors.) Even before that, studios were preparing to cut back, as investors began to demand evidence of profits rather than just subscriber growth. In America more than 2,000 original series were released last year (see chart). This will probably be the high-water mark, believes John Landgraf, chairman of the FX cable network.
 
 ### The upcoming season
