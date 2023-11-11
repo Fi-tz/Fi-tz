@@ -74,16 +74,18 @@ There are some subjects where the globe-spanning<sup>/ˈspænɪŋ/横跨；跨�
 Some of the people who helped to create TV’s golden age are downbeat<sup>/ˈdaʊnbiːt/沉闷的；令人沮丧的；悲观的</sup> about its future. HBO “died at 50”, Michael Fuchs, who ran the network in the 1980s, tells Mr Biskind.<sub>HBO“在50岁时就结束了”，迈克尔·富克斯（Michael Fuchs）告诉比斯金德先生。</sub> “There’s no longer an HBO.” A producer of “The Wire”, one of HBO’s grittiest<sup>逼真的 活生生的</sup> and most celebrated shows, says the company would never make it today. For creatives, television’s golden age is turning into a gilded<sup> /ˈɡɪl.dɪd/covered with a thin layer of gold or gold paint镀金的；涂金色的</sup> cage. <sub>一位制作《The Wire》的制片人，这是HBO最真实且备受赞誉的剧集之一，表示公司如今不可能再制作这样的节目。对于创作者而言，电视的黄金时代正在变成一个镀金的囚笼</sub>■
 
 >《火线重案组》（英语：The Wire），又译为《火线》、《监听风云》。是一部美国犯罪电视剧，讲述了马里兰州巴尔的摩市警察与犯罪团伙间交锋的故事。全剧在巴尔的摩市实地取景，采用单机摄制（film-style shooting）。前罪案记者、作家大卫·西蒙担任本片的制片人兼领衔编剧。全剧由有线电视网HBO在美国播出，于2002年6月2日首播，2008年3月9日完结，共5季60集
+
 >gritty <sup>adjective</sup>
->**containing or like grit含沙砾的；沙砾般的**
->a layer of gritty dust一层沙尘
->**showing the courage and strength of mind to continue doing something difficult or unpleasant坚韧不拔的；坚定的；坚毅的**
-gritty determination坚定的决心
-a gritty performance from the British player这位英国运动员的坚毅表现
-Tottenham’s gritty fightback was rewarded by a goal in the closing minutes.托特纳姆热刺的坚毅反击在最后几分钟被一个进球所奖励。
-Topics Personal qualitiesC2
->**showing something unpleasant as it really is; having a lot of unpleasant features（对不好事物的描述）逼真的，真实的，活生生的**
-a gritty description of urban violence对城市暴力的真实描述
-gritty realism活生生的现实
- (especially North American English) a gritty neighborhood of flophouses and bars肮脏的小棚屋和酒吧
+
+>**containing or like grit含沙砾的；沙砾般的**<br>
+>a layer of gritty dust一层沙尘 <br>
+>**showing the courage and strength of mind to continue doing something difficult or unpleasant坚韧不拔的；坚定的；坚毅的**<br>
+gritty determination坚定的决心<br>
+a gritty performance from the British player这位英国运动员的坚毅表现 <br>
+Tottenham’s gritty fightback was rewarded by a goal in the closing minutes.托特纳姆热刺的坚毅反击在最后几分钟被一个进球所奖励。 <br>
+Topics Personal qualitiesC2 <br>
+>**showing something unpleasant as it really is; having a lot of unpleasant features（对不好事物的描述）逼真的，真实的，活生生的** <br>
+a gritty description of urban violence对城市暴力的真实描述 <br>
+gritty realism活生生的现实 <br>
+ (especially North American English) a gritty neighborhood of flophouses and bars肮脏的小棚屋和酒吧 <br>
 see also nitty-gritty
