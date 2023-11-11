@@ -47,6 +47,7 @@ Today Hollywood is in flux<sup>/flʌks/不断的变动</sup> once more—and its
 As the quantity of new shows falls, some believe the quality is diminishing, too. Several studios have been plagued<sup>/pleɪɡd/给…造成长时间的痛苦（或麻烦）；困扰；折磨；使受煎熬</sup> by real-life drama: from 2018, HBO endured four unhappy years of ownership by AT&T<sup>American Telephone and Telegraph</sup>, a phone company that knew little about TV. (Its boss suggested producing “Game of Thrones” in 20-minute episodes to be mobile-friendly.) Across the industry, a shift is under way. Mr Biskind quotes writers and actors who complain that streamers are returning to the safe centre ground that broadcast networks used to occupy.<sub>比斯金先生引用了一些作家和演员的抱怨，称流媒体平台正在回归到广播网络过去占据的安全中心地带。</sub> “I want to do in-your-face shit,” says Kenya Barris, the creator of inventive shows such as “Black-ish”. But “Netflix wants down-the-middle…Netflix became CBS.”<sub>肯尼亚·巴里斯，创造了《黑人大不同》等创新节目的创作者说：“我想做大胆的东西，”但是“Netflix想要的是平庸之作……Netflix变成了CBS。</sub>
 
 >in-your-face :used to describe an attitude, a performance, etc. that is aggressive in style and deliberately designed to make people react strongly for or against it（态度、表演等）赤裸裸的，富有刺激性的，有意惹人发怒的
+
 >down-the-middle:平庸<br>
 
 Advertising has made a comeback, as streamers try to squeeze more dollars out of more subscribers. And bingeing is being reined in. Most streamers now release new shows weekly to keep subscribers on board for longer. Even Netflix, the pioneer of bingeing, is moving this way, dripping out episodes of some new shows one by one.
@@ -69,6 +70,7 @@ The result is that their output is resolutely<sup>/ˈrezəluːtli/in a way that 
 There are some subjects where the globe-spanning<sup>/ˈspænɪŋ/横跨；跨越</sup> tech titans are even touchier<sup>/ˈtʌtʃi/敏感性的；需要小心处理的；棘手的</sup> than the old broadcast networks. Apple recently cancelled “The Problem with Jon Stewart”, a satirical<sup>/səˈtɪrɪkl/using satire to criticize somebody/something讽刺的；讥讽的</sup> current-affairs show, reportedly because of concerns about Mr Stewart’s critical stances<sup>/stæns立场、观点</sup> on China and artificial intelligence.
 
 >“The Problem with Jon Stewart”美国晚间娱乐节目，乔恩·斯图尔特担当主持人，每期节目聚焦单一主题，于2021年9月30日在苹果公司的线上串流媒体平台Apple TV+首播。<br>
+
 Some of the people who helped to create TV’s golden age are downbeat<sup>/ˈdaʊnbiːt/沉闷的；令人沮丧的；悲观的</sup> about its future. HBO “died at 50”, Michael Fuchs, who ran the network in the 1980s, tells Mr Biskind.<sub>HBO“在50岁时就结束了”，迈克尔·富克斯（Michael Fuchs）告诉比斯金德先生。</sub> “There’s no longer an HBO.” A producer of “The Wire”, one of HBO’s grittiest<sup>逼真的 活生生的</sup> and most celebrated shows, says the company would never make it today. For creatives, television’s golden age is turning into a gilded<sup> /ˈɡɪl.dɪd/covered with a thin layer of gold or gold paint镀金的；涂金色的</sup> cage. <sub>一位制作《The Wire》的制片人，这是HBO最真实且备受赞誉的剧集之一，表示公司如今不可能再制作这样的节目。对于创作者而言，电视的黄金时代正在变成一个镀金的囚笼</sub>■
 
 >《火线重案组》（英语：The Wire），又译为《火线》、《监听风云》。是一部美国犯罪电视剧，讲述了马里兰州巴尔的摩市警察与犯罪团伙间交锋的故事。全剧在巴尔的摩市实地取景，采用单机摄制（film-style shooting）。前罪案记者、作家大卫·西蒙担任本片的制片人兼领衔编剧。全剧由有线电视网HBO在美国播出，于2002年6月2日首播，2008年3月9日完结，共5季60集
