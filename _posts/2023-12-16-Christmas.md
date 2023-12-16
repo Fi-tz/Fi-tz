@@ -21,7 +21,8 @@ Its creaminess is a reminder of the comforts of childhood, while the addition of
 
 The stupefying effect of eggnog was known long before the riot that bears its name.<sub>蛋酒的令人昏昏欲睡的效果在它得名的暴动之前就已经为人所知</sub> In Shakespeare’s<sup> /ˈʃeɪkspɪə/莎士比亚</sup> play, the murderous Lady Macbeth drugs the servants’ posset in order to gain access to the king’s bedroom: “That which hath<sup>/hæθ/(old use)has</sup> made them drunk hath made me bold.”
 
-Today the drink is associated with less serious crimes, namely tipsiness<sup>/ˈtɪp.sinəs/Drunkenness and sobriety</sup> at holiday parties. A poem published in the American Beacon on Christmas Eve in 1817 evoked ancient Greek mythology to suggest that the drink turned respectable people into beasts: 
+Today the drink is associated with less serious crimes, namely tipsiness<sup>/ˈtɪp.sinəs/Drunkenness and sobriety</sup> at holiday parties. A poem published in the American Beacon on Christmas Eve in 1817 evoked ancient Greek mythology to suggest that the drink turned respectable people into beasts: <br>
+
 “When Circe, the witch, caught Ulysses’s men<sub>当女巫瑟西抓住尤利西斯的人时</sub> <br>
 She gave each a dram <sub>她给每个人一小杯</sub> <br>
 that soon made him a hog，<sub>很快就把他变成了猪</sub> <br>
