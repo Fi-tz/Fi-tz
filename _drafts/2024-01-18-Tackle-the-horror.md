@@ -1,5 +1,5 @@
 ---
-title: How should cinema tackle the horror of the Holocaust?
+title: How should cinema tackle the horror of the Holocaust<sup>/ˈhɒləkɔːst/大灾难，大毁灭</sup>?
 tags: Culture
 ---
 ## Two very different new films rise to the challenge—up to a point  
