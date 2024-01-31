@@ -8,7 +8,17 @@ Jan 16th 2024
 A baby is crying, but whose: the one in the nursery or someone else’s child, beyond the garden wall topped with barbed<sup>/bɑːbd/有倒钩的</sup> wire? A dog is barking, but is it the family pet or a far more menacing<sup>/ˈmenəsɪŋ/威胁的</sup> animal? In “The Zone of Interest”<sup>利益区域 </sup> (pictured), an ambitious new film by Jonathan Glazer<sup>
 乔纳森·格雷泽</sup>, the nursery and the dog belong to Rudolf Höss (played by Christian Friedel), the commandant<sup>/ˈkɒməndænt/司令；指挥官</sup> of Auschwitz. The wall divides his family home from the adjacent concentration camp.
 
-Every director who grapples with the Holocaust—from Mr Glazer to Steven Spielberg, whose canonical hit “Schindler’s List” came out 30 years ago—faces a daunting, possibly insuperable challenge. They must attempt to convey the horror while knowing that their efforts are bound to be inadequate, and risk seeming disrespectful of the suffering. Different as they are in other ways, “The Zone of Interest” and another new release, “One Life”, offer similar solutions. Both succeed—up to a point.
+Every director who grapples<sup>/ˈɡræplz/ with the Holocaust—from Mr Glazer to Steven Spielberg<sup>
+史提芬·史匹堡</sup>, whose canonical hit “Schindler’s List” came out 30 years ago—faces a daunting, possibly insuperable challenge. They must attempt to convey the horror while knowing that their efforts are bound to be inadequate, and risk seeming disrespectful of the suffering. Different as they are in other ways, “The Zone of Interest” and another new release, “One Life”, offer similar solutions. Both succeed—up to a point.
+**grapples**
+>[intransitive, transitive] to take a strong hold of somebody/something and struggle with them扭打；搏斗<br>
+ grapple (with somebody/something) Passers-by grappled with the man after the attack.袭击之后过路人便与这男人扭打起来。<br>
+ grapple somebody/something (+ adv./prep.) They managed to grapple him to the ground.他们终于把他摔倒在地。<br>
+>[intransitive] to try hard to find a solution to a problem努力设法解决<br>
+ grapple with something The new government has yet to grapple with the problem of air pollution.新政府还需尽力解决空气污染问题。<br>
+a government trying to grapple with inflation试图应对通货膨胀的政府<br>
+an attempt to grapple with this very difficult issue试图解决这个非常困难的问题<br>
+ grapple to do something I was grappling to find an answer to his question.我正在努力想办法解决他的问题。<br>
 
 “The Zone of Interest” takes its interest in domestic life at Auschwitz (though little else) from Martin Amis’s novel of the same name. It is less a story than a map of a moral void. In the shadow of the crematoria Rudolf, his wife Hedwig (Sandra Hüller) and their five children live “how we dreamed we would”. They enjoy picnics, parties in the garden, looted clothes and bucolic swims in rivers that are only sometimes awash with human remains. Rudolf is sad to be transferred away, then thrilled to be sent back to Auschwitz to oversee the murder of the Jews of Hungary.
 
