@@ -5,7 +5,8 @@ tags: Culture
 ## Two very different new films rise to the challenge—up to a point  
 
 Jan 16th 2024
-A baby is crying, but whose: the one in the nursery or someone else’s child, beyond the garden wall topped with barbed wire? A dog is barking, but is it the family pet or a far more menacing animal? In “The Zone of Interest” (pictured), an ambitious new film by Jonathan Glazer, the nursery and the dog belong to Rudolf Höss (played by Christian Friedel), the commandant of Auschwitz. The wall divides his family home from the adjacent concentration camp.
+A baby is crying, but whose: the one in the nursery or someone else’s child, beyond the garden wall topped with barbed<sup>/bɑːbd/有倒钩的</sup> wire? A dog is barking, but is it the family pet or a far more menacing<sup>/ˈmenəsɪŋ/威胁的</sup> animal? In “The Zone of Interest”<sup>利益区域 </sup> (pictured), an ambitious new film by Jonathan Glazer<sup>
+乔纳森·格雷泽</sup>, the nursery and the dog belong to Rudolf Höss (played by Christian Friedel), the commandant<sup>/ˈkɒməndænt/司令；指挥官</sup> of Auschwitz. The wall divides his family home from the adjacent concentration camp.
 
 Every director who grapples with the Holocaust—from Mr Glazer to Steven Spielberg, whose canonical hit “Schindler’s List” came out 30 years ago—faces a daunting, possibly insuperable challenge. They must attempt to convey the horror while knowing that their efforts are bound to be inadequate, and risk seeming disrespectful of the suffering. Different as they are in other ways, “The Zone of Interest” and another new release, “One Life”, offer similar solutions. Both succeed—up to a point.
 
